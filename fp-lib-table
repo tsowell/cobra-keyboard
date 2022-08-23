@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name horizontal)(type KiCad)(uri ${KIPRJMOD}/horizontal.pretty)(options "")(descr ""))
+)
